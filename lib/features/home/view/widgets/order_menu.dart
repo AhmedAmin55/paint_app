@@ -13,7 +13,7 @@ import '../../../../core/utilis/app_texts.dart';
 
 class OrderMenu extends StatefulWidget {
   const OrderMenu({super.key,required this.index,});
-  final index;
+  final index ;
 
   @override
   State<OrderMenu> createState() => _OrderMenuState();
