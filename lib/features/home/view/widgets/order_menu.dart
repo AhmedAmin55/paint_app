@@ -20,7 +20,7 @@ class OrderMenu extends StatefulWidget {
 }
 
 class _OrderMenuState extends State<OrderMenu> {
-  double price=0;
+  double price =0;
 
   @override
   Widget build(BuildContext context) {
